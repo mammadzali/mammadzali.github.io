@@ -6,7 +6,7 @@
   "description": "امتیازدهی به عملکرد دانش‌آموزان",
   "start_url": "https://mammadzali.github.io/mm/",
   "display": "standalone",
-  "scope": "/mm",
+  "scope": "https://mammadzali.github.io/mm/",
   "prefer_related_applications": false,
   "orientation": "any",
   "icons": [
