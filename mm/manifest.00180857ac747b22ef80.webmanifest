@@ -4,7 +4,7 @@
   "name": "مثبت/منفی",
   "short_name": "مثبت/منفی",
   "description": "امتیازدهی به عملکرد دانش‌آموزان",
-  "start_url": "/mm",
+  "start_url": "https://mammadzali.github.io/mm/",
   "display": "standalone",
   "scope": "/mm",
   "prefer_related_applications": false,
